@@ -1,7 +1,7 @@
 import fileinput
 import sys
 
-from parking_lot import ParkingLot, Car
+from main import ParkingLot, Car
 
 parking_lot = ParkingLot()
 
